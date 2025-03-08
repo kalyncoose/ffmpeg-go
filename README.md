@@ -1,4 +1,5 @@
 # ffmpeg-go
+[![Go Reference](https://pkg.go.dev/badge/github.com/u2takey/ffmpeg-go.svg)](https://pkg.go.dev/github.com/u2takey/ffmpeg-go) [![Go Report Card](https://goreportcard.com/badge/github.com/u2takey/ffmpeg-go)](https://goreportcard.com/report/github.com/u2takey/ffmpeg-go)
 
 ffmpeg-go is golang port of https://github.com/kkroening/ffmpeg-python
 
